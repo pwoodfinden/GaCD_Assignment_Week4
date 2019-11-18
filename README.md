@@ -2,11 +2,16 @@
 
 tidydata file for the 'Human Activity Recognition Using Smartphones Dataset'
 
-tidydata.txt     - contains mean and standard deviation averages per subject (volunteer) for each of the 6 activities.
+Both tidydata.txt and codebook_tidydata.Rmd were created using the R script:
+run_analysis.R
 
-codebook_tidydata.Rmd   - A full list of variables is contained in the codebook
+tidydata.txt    
+Contains mean and standard deviation averages per subject (volunteer) for each of the 6 activities.
 
-run_analysis.R    - Both tidydata.txt and codebook_tidydata.Rmd were created using the R script
+codebook_tidydata.Rmd 
+A full list of variables is contained in the codebook
+
+
 
 Please set working directory in R to the UCI HAR Dataset folder before running.
 ==================================================================
