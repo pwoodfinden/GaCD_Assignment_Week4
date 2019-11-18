@@ -8,9 +8,8 @@ run_analysis.R
 tidydata.txt    
 Contains mean and standard deviation averages per subject (volunteer) for each of the 6 activities.
 
+A full list of variables is contained in the codebook: 
 codebook_tidydata.Rmd 
-A full list of variables is contained in the codebook
-
 
 
 Please set working directory in R to the UCI HAR Dataset folder before running.
